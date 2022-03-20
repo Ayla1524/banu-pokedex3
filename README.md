@@ -9,7 +9,7 @@ Link do Surge: https://decisive-slave.surge.sh/
 
 Proposta do Projeto 
 - O objetivo do protejo é criar uma pokedex com todos os pokémons catalogados com suas funções e todos os seus dados, isso pode ser acessado,
-  na primmeira parte do projeto.
+  na primeira parte do projeto.
   O usúario pode olhar essas informações e selecionar dois pokémons através do botão adicionar para a batalha, assim que ele seleciona os pokémons
   ele poderar ir na seção batalha que é a segunda parte do projeto pra poder jogar. 
   Finalizada a batalha aparece um alerte indicando o pokémon ganhador. 
