@@ -37,4 +37,5 @@ O que não funciona:
 
 ![pokedex 2 ](https://user-images.githubusercontent.com/86736303/159168660-2f7c3fdf-eb4f-47e4-865e-f9ef42bed391.png)
 ![pokedex 3 ](https://user-images.githubusercontent.com/86736303/159168663-eab70fd5-95a7-4eec-94ab-c861d479e2cb.png)
-![pokedex](https://user-images.githubusercontent.com/86736303/159168664-b40b7615-d894-452c-84c7-2eab86353bbd.png)
+![pokedex](https://user-images.githubusercontent.com/86736303/159168664-b40b7615-d894-452c-84c7-2eab86353bbd.png)![pokedex 4](https://user-images.githubusercontent.com/86736303/159168824-ec663805-8c87-453c-a76f-730040d4bd81.png)
+
